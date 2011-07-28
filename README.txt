@@ -1,0 +1,2 @@
+Simple emacs configuration
+
