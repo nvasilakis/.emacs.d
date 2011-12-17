@@ -1,0 +1,11 @@
+#name: #!
+# key: !!
+# --
+#!/bin/bash
+# ${A script that..}
+# author: Nikos Vasilakis
+# email:  n.c.vasilakis@gmail.com
+#
+# notes: ${notes}
+
+$0
