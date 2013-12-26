@@ -384,7 +384,7 @@ Key bindings:
   (c-common-init 'vala-mode)
   ;;(easy-menu-add vala-menu)
   (c-set-style "linux")
-  (setq indent-tabs-mode t)
+  (setq indent-tabs-mode nil)
   (setq c-basic-offset 4)
   (setq tab-width 4)
   (c-toggle-auto-newline -1)
